@@ -1,0 +1,32 @@
+{
+  "name": "cra-template-apollo-tailwind",
+  "version": "1.0.0",
+  "description": "My personal Create React App template with eslint, stylelint, prettier, tailwindcss, and apollo",
+  "keywords": [
+    "create-react-app",
+    "react",
+    "apollo",
+    "tailwindcss",
+    "template"
+  ],
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "author": "imjakechapman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imjakechapman/cra-template-apollo-tailwind"
+  },
+  "bugs": {
+    "url": "https://github.com/imjakechapman/cra-template-apollo-tailwind/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "engines": {
+    "node": ">=10"
+  }
+}
