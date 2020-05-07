@@ -1,12 +1,13 @@
 {
-  "name": "cra-template-apollo-tailwind",
+  "name": "cra-template-apollo-tailwind-routerv6",
   "version": "1.0.0",
-  "description": "My personal Create React App template with eslint, stylelint, prettier, tailwindcss, and apollo",
+  "description": "Personal Create React App template with eslint, stylelint, prettier, tailwindcss, apollo, and React Router V6 alpha",
   "keywords": [
     "create-react-app",
     "react",
     "apollo",
     "tailwindcss",
+    "react router",
     "template"
   ],
   "main": "template.json",
