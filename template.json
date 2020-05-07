@@ -37,10 +37,8 @@
       "typescript": "^3.8.0"
     },
     "scripts": {
-      "dev": "npm-run-all -p watch:css start",
-      "start": "react-scripts start",
-      "prebuild": "npm run build:css",
-      "build": "react-scripts build",
+      "start": "npm run watch:css & sleep 2 && react-scripts start",
+      "build": "npm run build:css && react-scripts build",
       "test": "react-scripts test",
       "build:css": "postcss src/styles/index.css -o src/styles/main.css",
       "watch:css": "postcss src/styles/index.css -o src/styles/main.css --watch"
