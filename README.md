@@ -1,5 +1,8 @@
 # Create React App template
 
+## User
+`npx create-react-app my-app --template apollo-tailwind-routerv6`
+
 ## Includes
 
 - TypeScript
